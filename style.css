@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+h1{
+       font-size: 40px;
+       text-transform: uppercase;
+}
+button{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+}
